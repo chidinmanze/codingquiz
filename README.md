@@ -16,3 +16,4 @@ Upgrades that I plan to make to this game are:
 ## Screenshots 
 <img src="https://github.com/chidinmanze/codingquiz/blob/master/home.JPG" alt="quiz home">
 <img src="https://github.com/chidinmanze/codingquiz/blob/master/quiz.JPG" alt="quiz questions">
+<img src="https://github.com/chidinmanze/codingquiz/blob/master/gameend.JPG" alt="game end screen">
