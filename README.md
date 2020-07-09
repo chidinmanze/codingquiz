@@ -1,4 +1,5 @@
 # Coding Quiz
+https://chidinmanze.github.io/codingquiz/
 
 This coding quiz is a short multiple-choice activity where users will answer 7 questions on a few basics of web development. The timer is set for 5 minutes, and after completing the quiz, users will see their final score and have the option to save their score in local storage. 
 
