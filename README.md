@@ -14,3 +14,4 @@ Upgrades that I plan to make to this game are:
 - If a user times out before finishing the quiz, showing their current score as the final score. 
 
 ## Screenshots 
+<img src="https://github.com/chidinmanze/codingquiz/blob/master/home.JPG">
