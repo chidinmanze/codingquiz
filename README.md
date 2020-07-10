@@ -15,6 +15,6 @@ Upgrades that I plan to make to this game are:
 - If a user times out before finishing the quiz, showing their current score as the final score. 
 
 ## Screenshots 
-<img src="https://github.com/chidinmanze/codingquiz/blob/master/home.JPG" alt="quiz home">
-<img src="https://github.com/chidinmanze/codingquiz/blob/master/quiz.JPG" alt="quiz questions">
-<img src="https://github.com/chidinmanze/codingquiz/blob/master/gameend.JPG" alt="game end screen">
+<img src="https://github.com/chidinmanze/codingquiz/blob/master/assets/images/home.JPG" alt="quiz home">
+<img src="https://github.com/chidinmanze/codingquiz/blob/master/assets/images/quiz.JPG">
+<img src="https://github.com/chidinmanze/codingquiz/blob/master/assets/images/gameend.JPG" alt="game end screen">
