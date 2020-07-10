@@ -1,4 +1,5 @@
 # Coding Quiz
+https://chidinmanze.github.io/codingquiz/
 
 This coding quiz is a short multiple-choice activity where users will answer 7 questions on a few basics of web development. The timer is set for 5 minutes, and after completing the quiz, users will see their final score and have the option to save their score in local storage. 
 
@@ -14,3 +15,6 @@ Upgrades that I plan to make to this game are:
 - If a user times out before finishing the quiz, showing their current score as the final score. 
 
 ## Screenshots 
+<img src="https://github.com/chidinmanze/codingquiz/blob/master/home.JPG" alt="quiz home">
+<img src="https://github.com/chidinmanze/codingquiz/blob/master/quiz.JPG" alt="quiz questions">
+<img src="https://github.com/chidinmanze/codingquiz/blob/master/gameend.JPG" alt="game end screen">
